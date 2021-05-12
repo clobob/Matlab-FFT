@@ -3,9 +3,7 @@ Matlab-FFT
 
 ### How to start?
 Run the **Matlab_FFT_example.m** file.
-
 And then, you could get the below graph. 
-
 If you activate below code, you could also get the ratio of 2nd order wave. 
 ```matlab
 ratio2rd = Magnitude(1,3)/Magnitude(1,2) *100
